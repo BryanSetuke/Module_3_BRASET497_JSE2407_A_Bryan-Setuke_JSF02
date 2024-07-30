@@ -44,7 +44,6 @@
 </script>
 
 <main>
-  <h1>SwiftCart</h1>
   <div id="products">
     <div>
       <label for="category">Filter by Category:</label>
@@ -70,10 +69,6 @@
     {/if}
   </div>
 
-  <section id="contact">
-    <h2>Contact Us</h2>
-    <p>Feel free to reach out!</p>
-  </section>
 </main>
 
 <style>
